@@ -47,21 +47,5 @@ Desenvolvemos uma aplicação que utiliza técnicas de Processamento de Linguage
 - Utilização de código aberto (open source).
 - Dados fornecidos em formato .csv.
 
-## Avaliação
-
-O desenvolvimento dessa solução será avaliado com base nos seguintes critérios:
-
-1. Capacidade analítica.
-2. Qualidade do storytelling na apresentação e no código.
-3. Qualidade e clareza do código.
-4. Criatividade na abordagem do problema.
-5. Planejamento e organização do processo.
-6. Conexão efetiva com os objetivos do negócio.
-7. Proatividade na proposição de soluções.
-
-O candidato terá a oportunidade de apresentar o desenvolvimento deste desafio para a equipe da A3Data durante uma entrevista, com um tempo máximo de 45 minutos (30 minutos para apresentação e 15 para perguntas).
-
-Esperamos que essa solução demonstre suas habilidades técnicas e de negócio, proporcionando insights valiosos para o desafio proposto. Boa sorte!
-
 
 ![Texto](https://dist.neo4j.com/wp-content/uploads/20230615211442/1oMLZ5s8OHftzqPEVreTd_g.png)
