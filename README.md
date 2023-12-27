@@ -1,4 +1,4 @@
-# A3Data - Teste Técnico para Cientista de Dados
+# A3Data -
 
 Este repositório contém a solução para o teste técnico da vaga de Cientista de Dados na A3Data. O desafio consiste na análise de uma base de dados de clientes e perfil de compra de uma empresa de telecomunicações, com o objetivo de abordar o problema de churn elevado e propor estratégias para reduzi-lo.
 
