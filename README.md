@@ -1,10 +1,6 @@
-# A3Data -
+## Descrição 
 
-Este repositório contém a solução para o teste técnico da vaga de Cientista de Dados na A3Data. O desafio consiste na análise de uma base de dados de clientes e perfil de compra de uma empresa de telecomunicações, com o objetivo de abordar o problema de churn elevado e propor estratégias para reduzi-lo.
-
-## Descrição do Desafio
-
-A empresa de telecomunicações contratou a A3Data para avaliar o cenário de churn elevado entre seus clientes. Com um produto que envolve custos significativos de setup, a empresa busca uma estratégia para minimizar o churn. O conhecimento em NLP e LLM é essencial, dada a presença de colunas textuais na base de dados.
+A empresa de telecomunicações quer avaliar o cenário de churn elevado entre seus clientes. Com um produto que envolve custos significativos de setup, a empresa busca uma estratégia para minimizar o churn. O conhecimento em NLP e LLM é essencial, dada a presença de colunas textuais na base de dados.
 
 ## Solução Proposta
 
@@ -29,7 +25,6 @@ Desenvolvemos uma aplicação que utiliza técnicas de Processamento de Linguage
 ### Artefatos Entregues
 
 1. **Apresentação de Resultados:**
-   - Apresentação do desafio.
    - Planejamento de entregáveis (Roadmap).
    - Explicação do processo utilizado.
    - Hipóteses levantadas.
@@ -42,7 +37,6 @@ Desenvolvemos uma aplicação que utiliza técnicas de Processamento de Linguage
    - Fine tuning de modelo open source (fortemente desejável).
 
 ## Requisitos
-
 - Aplicação Q&A para interação com os dados.
 - Utilização de código aberto (open source).
 - Dados fornecidos em formato .csv.
